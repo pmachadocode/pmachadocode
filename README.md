@@ -30,3 +30,9 @@ Trabalho como Analista de Suporte JR.</p>
 </div>
 
 </p>
+
+
+### 🖥️ Alguns dos meus Projetos em Análise de dados: 
+Projeto | Linguagem/Ferramenta | Título 
+ :---: |:---: |:---: |
+ [Em Construção](#) | Excel, Power Query, Power Pivot | DashBoard Vendas
