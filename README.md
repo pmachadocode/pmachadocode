@@ -36,3 +36,4 @@ Trabalho como Analista de Suporte JR.</p>
 Projeto | Linguagem/Ferramenta | Título 
  :---: |:---: |:---: |
  [Dashboard Vendas](https://github.com/pmachadocode/dashboard_vendas.git) | Excel, Power Query, Power Pivot | DashBoard Vendas
+ [Dashboard VendasV2](#) | Excel, Tabela Dinâmica | DashBoard Vendas
