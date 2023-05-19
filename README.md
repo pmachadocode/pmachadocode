@@ -12,9 +12,29 @@ Trabalho como Analista de Suporte JR.</p>
 ### 🖥️ Tecnologias e Ferramentas: 
 
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="WSSERVER"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="LINUX"/></code>
 <code><img width="45px" src="https://user-images.githubusercontent.com/95966908/154862938-254348e1-4291-448c-95ba-2daba1b33fb9.png" title = "Excel"/></code>
 <code><img width="45px" src="https://user-images.githubusercontent.com/95966908/154862894-f215a9ce-9bcf-4f6e-ab59-43e1b8163431.png" title = "Power BI"/></code>
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title = "MYSQL" /></code>
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title = "VsCode"/></code>
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+
+##
+### ✉ Como me encontrar:
+<div>   
+  <a href="https://www.instagram.com/paulo.machado96/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:paulo.machado200496@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="LINK LINKEDLN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
+
+##
+### 💹 GitHub Stats:
+<div>
+  <a href="https://github.com/jnascimentocode">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jnascimentocode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnascimentocode&layout=compact&langs_count=7&theme=dark"/>
+</div>   
+
+</p>
