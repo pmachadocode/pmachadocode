@@ -35,4 +35,4 @@ Trabalho como Analista de Suporte JR.</p>
 ### 🖥️ Alguns dos meus Projetos em Análise de dados: 
 Projeto | Linguagem/Ferramenta | Título 
  :---: |:---: |:---: |
- [Em Construção](#) | Excel, Power Query, Power Pivot | DashBoard Vendas
+ [Dashboard Vendas](https://github.com/pmachadocode/dashboard_vendas.git) | Excel, Power Query, Power Pivot | DashBoard Vendas
