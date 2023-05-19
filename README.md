@@ -29,4 +29,10 @@ Trabalho como Analista de Suporte JR.</p>
 
 </div>
 
+##
+### 💹 GitHub Stats:
+<div>
+  <a href="https://github.com/pmachadocode">
+</div> 
+
 </p>
