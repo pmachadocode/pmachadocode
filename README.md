@@ -33,6 +33,7 @@ Trabalho como Analista de Suporte JR.</p>
 ### 💹 GitHub Stats:
 <div>
   <a href="https://github.com/pmachadocode">
+   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=pmachadocode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div> 
 
 </p>
