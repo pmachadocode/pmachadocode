@@ -35,5 +35,6 @@ Trabalho como Analista de Suporte JR.</p>
 ### 🖥️ Alguns dos meus Projetos em Análise de dados: 
 Projeto | Linguagem/Ferramenta | Título 
  :---: |:---: |:---: |
- [Dashboard Vendas](https://github.com/pmachadocode/dashboard_vendas.git) | Excel, Power Query, Power Pivot | DashBoard Vendas
- [Dashboard Vendas V2](https://github.com/pmachadocode/dashvendas2) | Excel, Tabela Dinâmica | DashBoard Vendas
+ [Dashboard Vendas V1](https://github.com/pmachadocode/dashboard_vendas.git) | Excel, Power Query, Power Pivot | DashBoard Vendas V1
+ [Dashboard Vendas V2](https://github.com/pmachadocode/dashvendas2) | Excel, Tabela Dinâmica | DashBoard Vendas V2
+ [Dashboard Vendas V3](https://github.com/pmachadocode/dashvendas2) | Excel, Tabela Dinâmica | DashBoard Vendas V3
