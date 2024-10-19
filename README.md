@@ -3,8 +3,8 @@
 </br>
 </br>
  ## Olá, Devs e Analistas!!
-<p>Tenho 27 anos, Brasileiro e moro em Itu-SP. Estou cursando Banco de Dados em Estácio de Sá.
-Trabalho como Analista de Suporte JR.</p>
+<p>Tenho 28 anos, Brasileiro e moro em Itu-SP. Estou cursando Banco de Dados em Estácio de Sá.
+Trabalho como Analista de Suporte PL.</p>
  <p align="left">📚 Atualmente estudando Banco de Dados</p>
  <p align="left"> Gosto muito de filmes e séries 🎞, games 🎮,e tenho uma paixão muito grande por computadores💻 .</p>
 </div>
@@ -23,8 +23,8 @@ Trabalho como Analista de Suporte JR.</p>
 ##
 ### ✉ Como me encontrar:
 <div>   
-  <a href="https://www.instagram.com/paulo.machado96/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:paulo.machado200496@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- <a href="https://www.instagram.com/paulo.machado96/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+  <a href = "mailto:phmcode@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-machado-2661a6104/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
