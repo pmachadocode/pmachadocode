@@ -1,13 +1,14 @@
 <h1 align="left">Paulo Machado</h1>
-<p>Sejam Bem vindos ao meu perfil GitHub 👋
+<p>Bem-vindos ao meu perfil GitHub! 👋
 </br>
 </br>
- ## Olá, Devs e Analistas!!
-<p>Tenho 28 anos, Brasileiro e moro em Itu-SP. Estou cursando Banco de Dados em Estácio de Sá.
-Trabalho como Analista de Suporte PL.</p>
- <p align="left">📚 Atualmente estudando Banco de Dados</p>
- <p align="left"> Gosto muito de filmes e séries 🎞, games 🎮,e tenho uma paixão muito grande por computadores💻 .</p>
+ ## Olá, Devs e Analistas!
+<p>Sou brasileiro, tenho 28 anos e moro em Itu-SP. Atualmente, estou no último semestre do curso de Banco de Dados na Estácio de Sá e trabalho como Analista de Suporte PL.</p>
+ <p align="left">📚 No momento, estou aprofundando meus conhecimentos em Banco de Dados.</p>
+ <p align="left">Sou apaixonado por tecnologia e, fora do trabalho, gosto de relaxar assistindo a filmes e séries 🎞, jogando games 🎮 e explorando tudo que envolve computadores 💻.</p>
 </div>
+
+
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
