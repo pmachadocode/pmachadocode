@@ -39,5 +39,5 @@ Projeto | Linguagem/Ferramenta | Título
  [Dashboard Vendas V1](https://github.com/pmachadocode/dashboard_vendas.git) | Excel, Power Query, Power Pivot | DashBoard Vendas V1
  [Dashboard Vendas V2](https://github.com/pmachadocode/dashvendas2) | Excel, Tabela Dinâmica | DashBoard Vendas V2
  [Dashboard Vendas V3](https://github.com/pmachadocode/dashboardV3) | Excel, Tabela Dinâmica | DashBoard Vendas V3
- [Dashboard Excel Análise CQ]((https://github.com/pmachadocode/dashboardCQ)) | PowerBi, Power Query, Pivot,VBA  | DashBoard Análise Roteiros CQ
+ [Dashboard Excel Análise CQ](https://github.com/pmachadocode/dashboardCQ) | PowerBi, Power Query, Pivot,VBA  | DashBoard Análise Roteiros CQ
  [Dashboard Power Bi V1](#) | PowerBi, Power Query  | DashBoard Vendas Power Bi V1
